@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON             38 mins               ██████████████▓░░░░░░░░░░   59.28 %
-Go               21 mins               ████████▒░░░░░░░░░░░░░░░░   32.90 %
-CMake            2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-CMakeLists.txt   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-C/C              0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
