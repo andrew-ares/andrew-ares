@@ -4,7 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+QML          1 hr 38 mins          ████████████████░░░░░░░░░   63.94 %
+Markdown     31 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
+QmlType      13 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+C++          5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Other        3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
