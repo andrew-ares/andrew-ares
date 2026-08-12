@@ -4,9 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   18 mins               █████████████▒░░░░░░░░░░░   52.83 %
-Rust       13 mins               █████████▓░░░░░░░░░░░░░░░   38.30 %
-TOML       3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
